@@ -310,15 +310,15 @@ a {
  }
 
  .user_list td{
-   padding: 10px;
+  padding: 10px;
  }
  .user_list img{
   width: 25px;
  }
 
  #AdminiFrame{
-   overflow-y: scroll;
-   overflow-x: hidden;
-   border: hidden;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  border: hidden;
   width: 100%;
  }
